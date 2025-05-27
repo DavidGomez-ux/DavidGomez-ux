@@ -3,7 +3,7 @@
 
 <h1 align="center">👨‍💻 QA Engineer | Software Quality Assurance</h1>
 
-# 👋 ¡Hola! Soy KEVIN VEGA - QA Tester Junior
+# 👋 ¡Hola! Soy Eduardo David Gómez Miranda- QA Tester Junior
 
 Aquí encontrarás ejemplos de mi trabajo, buenas prácticas en control de calidad de software y algunos proyectos donde demuestro mis habilidades como profesional en formación continua.
 
