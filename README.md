@@ -38,8 +38,8 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
       Pruebas de humo, Devtools, Jira, Figma, pruebas UI, Pruebas de compatibilidad. Pruebas de regresión, Pruebas funcionales, Clases de equivalencia, Casos de Prueba, Informe de errores.
 
   - **📁 Link al proyecto**
-      https://drive.google.com/drive/folders/1-tNmSIi87iyyw0KwuYQHaUwOG0d0wuAy?usp=drive_link 
-     
+(https://drive.google.com/drive/folders/1-j4iSRjC3uKetGEutGhFIZ5w9sRkGIdY?usp=drive_link)
+  
 ## 💻 Proyecto #2. Urban.Grocers. (Manual)
 
 ### 🔍 Validación de APIs (Postman)
