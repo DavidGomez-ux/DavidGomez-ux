@@ -80,8 +80,7 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
        Python, Pytest, API, PyCharm.
 
     - **📁 Link al proyecto**
-      https://github.com/Kevinvega04/qa-project-Urban-Grocers-app-es
-
+(https://github.com/DavidGomez-ux/qa-project-Urban-Grocers-app-es)
   ## ⚙️🔧 Herramientas adicionales 
   
 ### 🛠️ Gestión de Incidencias (Jira)
@@ -111,9 +110,8 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
 
 ## 📫👉 ¡Hablemos!
 
-- 📧 qaengineer.kevinvega@gmail.com 
-- 💼 (https://www.linkedin.com/in/kevin-jes%C3%BAs-vega-d%C3%ADaz)
-  
+- 📧 stark22722@gmail.com 
+- 💼 www.linkedin.com/in/eduardo-david-gómez-miranda  
 ---
 
 > “El mejor software no es el que tiene más funciones, sino el que funciona correctamente.”
