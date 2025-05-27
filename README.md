@@ -1,4 +1,5 @@
-<![kEVIN vEGA (1)](https://github.com/user-attachments/assets/972ea3fb-79e9-435d-a69e-5792655ec20f)
+![ChatGPT Image 26 may 2025, 10_52_40 a m](https://github.com/user-attachments/assets/cf7c4769-325e-4cb3-848c-4fa80fcb0b23)
+
 
 <h1 align="center">👨‍💻 QA Engineer | Software Quality Assurance</h1>
 
