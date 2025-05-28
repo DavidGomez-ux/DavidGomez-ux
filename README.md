@@ -3,9 +3,9 @@
 
 <h1 align="center">👨‍💻 QA Engineer | Software Quality Assurance</h1>
 
-# 👋 ¡Hola! Soy Eduardo David Gómez Miranda- QA Tester Junior
+# 👋 ¡Hola! Soy Eduardo David Gómez Miranda- QA Engineer Junior
 
-Soy QA Tester Junior con formación en nutrición y administración hospitalaria, lo que me permite aportar una visión integral al aseguramiento de calidad en el desarrollo de software, especialmente en proyectos del sector salud. Tengo experiencia en pruebas manuales, diseño de casos de prueba, uso de herramientas como Postman, JIRA, GitHub y manejo básico de SQL. Me interesa mejorar continuamente y seguir aprendiendo sobre automatización con Selenium y metodologías ágiles. Mi enfoque está en la calidad, la mejora continua y el trabajo colaborativo.
+Soy QA Engineer Junior con formación en nutrición y administración hospitalaria, lo que me permite aportar una visión integral al aseguramiento de calidad en el desarrollo de software, especialmente en proyectos del sector salud. Tengo experiencia en pruebas manuales, diseño de casos de prueba, uso de herramientas como Postman, JIRA, GitHub y manejo básico de SQL. Me interesa mejorar continuamente y seguir aprendiendo sobre automatización con Selenium y metodologías ágiles. Mi enfoque está en la calidad, la mejora continua y el trabajo colaborativo.
 
 
 ---
@@ -49,7 +49,7 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
 ## 💻 Proyecto #2. Urban.Grocers. (Manual)
 
 ### 🔍 Validación de APIs (Postman)
-   Llevé a cabo pruebas de software enfocadas en validar la funcionalidad de asignación de kits de compra y verificación de disponibilidad y tarifas del servicio de entrega “Order and Go”, vinculando cada operación con la CardID del usuario. Revisé los requerimientos para una nueva funcionalidad del back-end en el sistema Urban.Grocers, elaboré una checklist para estructurar las pruebas y validé los endpoints proporcionados en ApiDoc mediante Postman. Registré los errores detectados en JIRA, contribuyendo a la generación de la documentación final del proyecto.
+   - **Descripción:**  Lleve a cabo pruebas de software enfocadas en validar la funcionalidad de asignación de kits de compra y verificación de disponibilidad y tarifas del servicio de entrega “Order and Go”, vinculando cada operación con la CardID del usuario. Revisé los requerimientos para una nueva funcionalidad del back-end en el sistema Urban.Grocers, elaboré una checklist para estructurar las pruebas y validé los endpoints proporcionados en ApiDoc mediante Postman. Registré los errores detectados en JIRA, contribuyendo a la generación de la documentación final del proyecto.
 
  - **Palabras Claves**
       Postman, Lista de comprobación, Pruebas funcionales back-end, Clases de equivalencia, APIdoc, Casos de Prueba, Informe de erroes, Jira.
@@ -89,29 +89,39 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
   ## ⚙️🔧 Herramientas adicionales 
   
 ### 🛠️ Gestión de Incidencias (Jira)
-   - **Descripción:** Me encargo de reportar y gestionar incidencias en Jira, contribuyendo a un flujo de trabajo ágil, la resolución rápida de problemas y la mejora continua de la estabilidad y calidad del software.
+   - **Descripción:** Me ocupo de documentar y gestionar errores en Jira, lo que permite mantener un proceso de trabajo dinámico, acelerar la corrección de fallos y contribuir a la mejora constante del rendimiento y la calidad del sistema.
    
 ### 🤖 Automatización de Pruebas (Selenium, Python)
-   - **Descripción:** Desarrollo scripts de automatización de pruebas utilizando Selenium y Python, lo cual ayuda a mejorar la eficiencia en los ciclos de pruebas, permitiendo realizar validaciones de manera rápida y repetitiva.
+   - **Descripción:** Desarrollé automatizaciones de pruebas utilizando Python y Selenium, con el objetivo de agilizar los procesos de validación, reduciendo el tiempo de ejecución y facilitando la repetición de pruebas en distintas versiones del software.
    - **Ejemplo:** Scripts de Selenium en Python para tareas de automatización.
   
 ### 🎨 Testing de Interfaz de Usuario (UI)
-   - **Descripción:** Realizo pruebas detalladas en la interfaz de usuario para asegurar que sea funcional, intuitiva y esté optimizada para distintos dispositivos y resoluciones, brindando una experiencia de usuario consistente.
+   - **Descripción:** Llevo a cabo evaluaciones detalladas de la interfaz de usuario para verificar que sea operativa, fácil de usar y visualmente adaptable a múltiples resoluciones y dispositivos, asegurando una experiencia de usuario coherente en distintos entornos.
    
 ### ▶️ Validación de Datos (SQL)
-   - **Descripción:** Valido la integridad y consistencia de los datos en bases de datos mediante consultas SQL, asegurando que la información se almacene y procese de manera correcta y evitando errores e inconsistencias en el flujo de datos.
+   - **Descripción:** Realizo validaciones de datos en bases de datos mediante consultas SQL, comprobando que la información sea coherente, esté correctamente estructurada y se mantenga íntegra a lo largo del flujo de procesamiento, evitando errores y anomalías en el sistema.
   
 ### 🧰 Pruebas de Compatibilidad
-   - **Descripción:** Verifico la compatibilidad y el diseño de aplicaciones web y móviles en múltiples plataformas, navegadores y dispositivos, garantizando que los usuarios disfruten de una experiencia de calidad en cualquier entorno.
+   - **Descripción:** Reviso el funcionamiento y la apariencia de aplicaciones web y móviles en diversas plataformas, dispositivos y navegadores, con el objetivo de garantizar una experiencia uniforme, accesible y de calidad para todos los usuarios, sin importar el entorno desde el que accedan.
+
    
 ## 💼👨‍💻 ¿Por qué contratarme?
 
-- Estoy comprometido con la calidad, el detalle y la mejora constante.
-- Aprendo rápido y me adapto fácilmente a nuevas herramientas y metodologías.
-- Trabajo bien en equipo y me comunico con claridad.
-- Mi objetivo es crecer en una empresa que valore la calidad del software tanto como yo.
+Como QA Engineer Junior, aporto una combinación sólida de habilidades técnicas, compromiso con la calidad del software y una mentalidad de mejora continua. Estas son algunas razones por las que podría ser un valor para tu equipo:
 
----
+🧠 Aprendizaje constante: Me mantengo en formación continua para fortalecer mis conocimientos en pruebas manuales, automatización, APIs, SQL y metodologías ágiles.
+
+🔍 Atención al detalle: Detecto errores, inconsistencias y oportunidades de mejora que otros podrían pasar por alto.
+
+🤝 Colaboración efectiva: Trabajo bien en equipo, aportando desde el rol de QA a la comunicación entre desarrolladores, diseñadores y product owners.
+
+🛠️ Conocimientos técnicos reales: He aplicado mis habilidades en proyectos donde he trabajado con herramientas como Postman, JIRA, Android Studio, Selenium, Git, y bases de datos SQL.
+
+📝 Documentación clara: Registro de manera organizada los casos de prueba, evidencias de errores y resultados, facilitando la trazabilidad del proceso de calidad.
+
+💡 Enfoque en el usuario final: Mis pruebas no solo buscan que la app funcione, sino que funcione bien para quien la usará.
+
+Estoy listo para contribuir, seguir aprendiendo y crecer junto con el equipo.
 
 ## 📫👉 ¡Hablemos!
 
@@ -119,4 +129,4 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
 - 💼 www.linkedin.com/in/eduardo-david-gómez-miranda  
 ---
 
-> “El mejor software no es el que tiene más funciones, sino el que funciona correctamente.”
+> “Un buen QA no rompe el sistema, lo fortalece antes de que el usuario lo haga”
