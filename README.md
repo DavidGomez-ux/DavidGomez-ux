@@ -44,8 +44,7 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
       Pruebas de humo, Devtools, Jira, Figma, pruebas UI, Pruebas de compatibilidad. Pruebas de regresión, Pruebas funcionales, Clases de equivalencia, Casos de Prueba, Informe de errores.
 
   - **📁 Link al proyecto**
-(https://drive.google.com/drive/folders/1-j4iSRjC3uKetGEutGhFIZ5w9sRkGIdY?usp=drive_link)
-  
+    * (https://drive.google.com/drive/folders/1-j4iSRjC3uKetGEutGhFIZ5w9sRkGIdY?usp=sharing)  
 ## 💻 Proyecto #2. Urban.Grocers. (Manual)
 
 ### 🔍 Validación de APIs (Postman)
