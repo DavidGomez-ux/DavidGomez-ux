@@ -44,7 +44,7 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
       Pruebas de humo, Devtools, Jira, Figma, pruebas UI, Pruebas de compatibilidad. Pruebas de regresión, Pruebas funcionales, Clases de equivalencia, Casos de Prueba, Informe de errores.
 
   - **📁 Link al proyecto**
-    * (https://drive.google.com/drive/folders/1-j4iSRjC3uKetGEutGhFIZ5w9sRkGIdY?usp=sharing)  
+    * (https://drive.google.com/drive/folders/1-j4iSRjC3uKetGEutGhFIZ5w9sRkGIdY?usp=sharing) 
 ## 💻 Proyecto #2. Urban.Grocers. (Manual)
 
 ### 🔍 Validación de APIs (Postman)
@@ -73,8 +73,7 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
        Consola, SQL, PostgreSQL.
 
     - **📁 Link al proyecto**
-      https://drive.google.com/drive/folders/1bw-DXRg2ICoRxaMnLRgdHJ4DPGJswiS8?usp=drive_link
-
+   * (https://drive.google.com/drive/folders/1eSJ787nzr2ZnWd3rRkEYJpR_8BGpWLi-?usp=sharing)
 ## ✅ Proyecto #5. Urban Grocers (Automatizada)
  - **Descripción:** Ejecuté pruebas para verificar la funcionalidad de la API utilizada en la creación de kits de productos, evaluando su comportamiento bajo múltiples condiciones y validaciones definidas por el sistema. El enfoque principal fue comprobar cómo maneja distintas entradas en el campo name del kit, asegurando que se cumplan todas las reglas y restricciones establecidas. Esta validación ayudó a detectar errores potenciales antes de su despliegue en un entorno de producción.
  - **Palabras Claves**
@@ -82,8 +81,9 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
        Python, Pytest, API, PyCharm.
 
     - **📁 Link al proyecto**
-(https://github.com/DavidGomez-ux/qa-project-Urban-Grocers-app-es)
-  ## ⚙️🔧 Herramientas adicionales 
+   * (https://docs.google.com/document/d/1OwAXWrBQ62112r2gXHtOlXUXopfHS2iW7AUF1dfzZfY/edit?usp=sharing)
+
+ ## ⚙️🔧 Herramientas adicionales 
   
 ### 🛠️ Gestión de Incidencias (Jira)
    - **Descripción:** Me ocupo de documentar y gestionar errores en Jira, lo que permite mantener un proceso de trabajo dinámico, acelerar la corrección de fallos y contribuir a la mejora constante del rendimiento y la calidad del sistema.
