@@ -45,10 +45,8 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
 
   - **📁 Link al proyecto**
     * (https://drive.google.com/drive/folders/1-j4iSRjC3uKetGEutGhFIZ5w9sRkGIdY?usp=sharing)
-      / Dejo mi lista de errores en JIRA.
-      (https://qaenginer07.atlassian.net/jira/software/c/projects/LDCYRLPD/issues)
-
-    ## 💻 Proyecto #2. Urban.Grocers. (Manual)
+      
+   ## 💻 Proyecto #2. Urban.Grocers. (Manual)
 
 ### 🔍 Validación de APIs (Postman)
    - **Descripción:**  Lleve a cabo pruebas de software enfocadas en validar la funcionalidad de asignación de kits de compra y verificación de disponibilidad y tarifas del servicio de entrega “Order and Go”, vinculando cada operación con la CardID del usuario. Revisé los requerimientos para una nueva funcionalidad del back-end en el sistema Urban.Grocers, elaboré una checklist para estructurar las pruebas y validé los endpoints proporcionados en ApiDoc mediante Postman. Registré los errores detectados en JIRA, contribuyendo a la generación de la documentación final del proyecto.
