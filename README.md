@@ -59,7 +59,8 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
  - **📁 Link al proyecto**
    * (https://drive.google.com/drive/folders/1C7hywx8k1FI9gMxt5QQqXmNeKNyoV915?usp=sharing)
    * / Les dejó los errores en JIRA.
-   * (https://drive.google.com/drive/folders/1gAx2UprG36UV2nQfNba-NZ_L0XVoSB4E?usp=drive_link)## 🔧 Proyecto #3. Urban.Lunch.(Manual)
+   * (https://drive.google.com/drive/folders/1gAx2UprG36UV2nQfNba-NZ_L0XVoSB4E?usp=drive_link)##
+ ##🔧 Proyecto #3. Urban.Lunch.(Manual)
 
 ### 📱 Testing en Aplicaciones Móviles (Andorid Studio)
    - **Descripción:** Ejecuté evaluaciones minuciosas en aplicaciones móviles mediante Android Studio, comprobando el correcto funcionamiento, la eficiencia del rendimiento y la adaptabilidad del diseño en múltiples resoluciones de pantalla, con el fin de asegurar una experiencia de usuario satisfactoria en dispositivos Android.
@@ -69,7 +70,10 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
 
     - **📁 Link al proyecto**
    * (https://drive.google.com/drive/folders/18fT924jeG8O-RqFRApuz5CrvuaSNhBQR?usp=sharing)
-## 🗃️ Proyecto #4. Aplicación para solicitar taxis (Manual)
+   * / Les dejó los errores en JIRA
+   * (https://drive.google.com/drive/folders/11BuLFm9JDFdZd4SLsNX2Rhmxq3SCpIdh?usp=sharing)
+ 
+ ## 🗃️ Proyecto #4. Aplicación para solicitar taxis (Manual)
 
 ### 🔄 Pruebas de consola y base de datos (SQL y CMDer)
    - **Descripción:** Realicé análisis a través de la consola y consultas SQL para revisar los logs del servidor y detectar posibles discrepancias en una base de datos de viajes en taxi. La tarea consistió en identificar información relevante, clasificar los datos según parámetros específicos y localizar errores potenciales en el funcionamiento del sistema.
