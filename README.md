@@ -57,8 +57,9 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
       Postman, Lista de comprobación, Pruebas funcionales back-end, Clases de equivalencia, APIdoc, Casos de Prueba, Informe de erroes, Jira.
      
  - **📁 Link al proyecto**
-   * (https://drive.google.com/drive/folders/1C7hywx8k1FI9gMxt5QQqXmNeKNyoV915?usp=sharing) 
-## 🔧 Proyecto #3. Urban.Lunch.(Manual)
+   * (https://drive.google.com/drive/folders/1C7hywx8k1FI9gMxt5QQqXmNeKNyoV915?usp=sharing)
+   * / Les dejó los errores en JIRA.
+   * (https://drive.google.com/drive/folders/1gAx2UprG36UV2nQfNba-NZ_L0XVoSB4E?usp=drive_link)## 🔧 Proyecto #3. Urban.Lunch.(Manual)
 
 ### 📱 Testing en Aplicaciones Móviles (Andorid Studio)
    - **Descripción:** Ejecuté evaluaciones minuciosas en aplicaciones móviles mediante Android Studio, comprobando el correcto funcionamiento, la eficiencia del rendimiento y la adaptabilidad del diseño en múltiples resoluciones de pantalla, con el fin de asegurar una experiencia de usuario satisfactoria en dispositivos Android.
