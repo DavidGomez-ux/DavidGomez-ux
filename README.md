@@ -45,7 +45,9 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
 
   - **📁 Link al proyecto**
     * (https://drive.google.com/drive/folders/1-j4iSRjC3uKetGEutGhFIZ5w9sRkGIdY?usp=sharing)
-      
+    * / Les dejó los errores de JIRA
+    * (https://drive.google.com/drive/folders/10_Jd9SmTWYYWX66IsLidW_nQs1Yw0R07?usp=sharing)    
+  
    ## 💻 Proyecto #2. Urban.Grocers. (Manual)
 
 ### 🔍 Validación de APIs (Postman)
