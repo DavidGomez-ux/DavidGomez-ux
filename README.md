@@ -1,5 +1,4 @@
-![ChatGPT Image 26 may 2025, 10_52_40 a m](https://github.com/user-attachments/assets/cf7c4769-325e-4cb3-848c-4fa80fcb0b23)
-
+![68a9566d-7310-43a9-b8fd-ea1b44703f81](https://github.com/user-attachments/assets/48c81b32-03d0-4d7c-aa38-272feeed6f5d)
 
 <h1 align="center">👨‍💻 QA Engineer | Software Quality Assurance</h1>
 
@@ -59,8 +58,9 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
  - **📁 Link al proyecto**
    * (https://drive.google.com/drive/folders/1C7hywx8k1FI9gMxt5QQqXmNeKNyoV915?usp=sharing)
    * / Les dejó los errores en JIRA.
-   * (https://drive.google.com/drive/folders/1gAx2UprG36UV2nQfNba-NZ_L0XVoSB4E?usp=drive_link)##
- ##🔧 Proyecto #3. Urban.Lunch.(Manual)
+   * (https://drive.google.com/drive/folders/1gAx2UprG36UV2nQfNba-NZ_L0XVoSB4E?usp=drive_link)
+   
+   * ## Proyecto #3. Urban.Lunch.(Manual)
 
 ### 📱 Testing en Aplicaciones Móviles (Andorid Studio)
    - **Descripción:** Ejecuté evaluaciones minuciosas en aplicaciones móviles mediante Android Studio, comprobando el correcto funcionamiento, la eficiencia del rendimiento y la adaptabilidad del diseño en múltiples resoluciones de pantalla, con el fin de asegurar una experiencia de usuario satisfactoria en dispositivos Android.
