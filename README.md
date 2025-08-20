@@ -108,8 +108,75 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
   
 ### 🧰 Pruebas de Compatibilidad
    - **Descripción:** Reviso el funcionamiento y la apariencia de aplicaciones web y móviles en diversas plataformas, dispositivos y navegadores, con el objetivo de garantizar una experiencia uniforme, accesible y de calidad para todos los usuarios, sin importar el entorno desde el que accedan.
+   - 
+🥗 QA Manual – Sistema de Nutrición Clínica
+📖 Descripción del Proyecto
 
-   
+Este proyecto contiene 30 casos de prueba manuales para un sistema de nutrición clínica.
+El objetivo es validar que el software gestione correctamente:
+
+🧑‍⚕️ Pacientes
+
+🍽️ Dietas y planes alimenticios
+
+📊 Evaluaciones nutricionales
+
+📄 Reportes y alertas
+
+🛠️ Estructura de los Casos de Prueba
+
+Cada caso de prueba incluye:
+
+🆔 ID: Número del caso
+
+📂 Módulo: Área del sistema
+
+📝 Descripción: Qué se va a probar
+
+⚠️ Precondiciones: Requisitos previos
+
+👣 Pasos: Secuencia para ejecutar la prueba
+
+💾 Datos de Entrada: Información utilizada
+
+✅ Resultado Esperado: Qué se espera obtener
+LINK DEL PROYECTO: (https://docs.google.com/spreadsheets/d/1s8hWpP6zi4rjKfN8UU5UW7Ij4c8j1XTd/edit?usp=sharing&ouid=103539336287944324214&rtpof=true&sd=true)
+🏥 QA Manual – Sistema de Administración de Hospitales
+📖 Descripción del Proyecto
+
+Este proyecto contiene 30 casos de prueba manuales para un sistema de administración hospitalaria.
+El objetivo es validar que el software gestione correctamente:
+
+🧑‍⚕️ Registro de personal médico y administrativo
+
+🛏️ Gestión de camas hospitalarias
+
+💊 Inventario de medicamentos y suministros
+
+📅 Programación de citas y turnos
+
+📄 Facturación y pagos
+
+📊 Reportes y auditorías
+
+🛠️ Estructura de los Casos de Prueba
+
+Cada caso de prueba incluye:
+
+🆔 ID: Número del caso
+
+📂 Módulo: Área del sistema
+
+📝 Descripción: Qué se va a probar
+
+⚠️ Precondiciones: Requisitos previos
+
+👣 Pasos: Secuencia para ejecutar la prueba
+
+💾 Datos de Entrada: Información utilizada
+
+✅ Resultado Esperado: Qué se espera obtener
+LINK: https://docs.google.com/spreadsheets/d/1rAwS2fg5vQWTBuVqPGzmhpUSKj7hHdyN/edit?usp=sharing&ouid=103539336287944324214&rtpof=true&sd=true
 ## 💼👨‍💻 ¿Por qué contratarme?
 
 Como QA Engineer Junior, aporto una combinación sólida de habilidades técnicas, compromiso con la calidad del software y una mentalidad de mejora continua. Estas son algunas razones por las que podría ser un valor para tu equipo:
@@ -133,5 +200,4 @@ Estoy listo para contribuir, seguir aprendiendo y crecer junto con el equipo.
 - 📧 stark22722@gmail.com 
 - 💼 www.linkedin.com/in/eduardo-david-gómez-miranda  
 ---
-
 > “Un buen QA no rompe el sistema, lo fortalece antes de que el usuario lo haga”
