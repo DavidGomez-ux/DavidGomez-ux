@@ -2,32 +2,30 @@
 
 <h1 align="center">👨‍💻 QA Engineer | Software Quality Assurance</h1>
 
-# 👋 ¡Hola! Soy Eduardo David Gómez Miranda- QA Engineer Junior
+# 👋 ¡Hola! Soy Eduardo David Gómez Miranda- QA Engineer Junior, Analista de datos 
 
-Soy QA Engineer Junior con formación en nutrición y administración hospitalaria, lo que me permite aportar una visión integral al aseguramiento de calidad en el desarrollo de software, especialmente en proyectos del sector salud. Tengo experiencia en pruebas manuales, diseño de casos de prueba, uso de herramientas como Postman, JIRA, GitHub y manejo básico de SQL. Me interesa mejorar continuamente y seguir aprendiendo sobre automatización con Selenium y metodologías ágiles. Mi enfoque está en la calidad, la mejora continua y el trabajo colaborativo.
-
+Soy QA Engineer Junior y Analista de Datos con formación en nutrición y administración hospitalaria, lo que me permite aportar una visión integral al aseguramiento de calidad en el desarrollo de software y al análisis de información, especialmente en proyectos del sector salud. Tengo experiencia en pruebas manuales, diseño de casos de prueba, uso de herramientas como Postman, JIRA, GitHub y manejo básico de SQL. Además, he trabajado en limpieza, organización y visualización de datos utilizando Excel, Tableau y Python, aplicando storytelling para comunicar hallazgos de manera clara y efectiva. Me interesa mejorar continuamente y seguir aprendiendo sobre automatización con Selenium, metodologías ágiles y fortalecer mis habilidades en R. Mi enfoque está en la calidad, la mejora continua, el análisis estratégico de datos y el trabajo colaborativo.
 
 ---
 
 ## 🎯 ¿Quién soy?
 
-Profesional multidisciplinario con experiencia como QA Engineer, Licenciado en Nutrición y Dietética y Maestro en Administración de Instituciones Hospitalarias. Combino habilidades técnicas con una sólida visión operativa y clínica, lo que me permite aportar soluciones eficientes en entornos tecnológicos y de salud.
+Profesional multidisciplinario con experiencia como QA Engineer, Licenciado en Nutrición y Dietética y Maestro en Administración de Instituciones Hospitalarias, además de Analista de Datos. Combino habilidades técnicas con una sólida visión operativa y clínica, lo que me permite aportar soluciones eficientes en entornos tecnológicos y de salud.
 
-Especialista en pruebas manuales, documentación, análisis de requerimientos y control de calidad. Manejo herramientas como Postman, Git, GitHub, JIRA, SQL, Selenium, Android Studio y DevTools. He ejecutado pruebas funcionales, mobile y de API para validar el rendimiento de aplicaciones y mejorar la experiencia del usuario.
+Especialista en pruebas manuales, documentación, análisis de requerimientos y control de calidad. Manejo herramientas como Postman, Git, GitHub, JIRA, SQL, Selenium, Android Studio y DevTools. He ejecutado pruebas funcionales, mobile y de API para validar el rendimiento de aplicaciones y mejorar la experiencia del usuario. Como Analista de Datos, tengo experiencia en limpieza, organización y visualización de información utilizando Excel, Tableau y Python, aplicando storytelling para comunicar hallazgos de manera clara y estratégica. Mi enfoque está en la calidad, la mejora continua, el análisis de datos y el trabajo colaborativo.
 ---
 
 ## ⚙️ Habilidades Técnicas
-* Scrum: trabajo bajo metodologías ágiles con enfoque en colaboración y mejora continua.
-
-* Pruebas Manuales: funcionales, exploratorias y de regresión en entornos web y móviles.
-
-* APIs REST: validación de endpoints con Postman (métodos, parámetros, headers, body).
-
-* Automatización: conocimientos básicos en Selenium con Python para pruebas web.
-
-* Gestión de Incidencias: uso de JIRA para seguimiento de bugs y tareas de QA.
-
-* Herramientas: Android Studio, Git y GitHub para pruebas, control de versiones y flujo de trabajo.
+•  Scrum: trabajo bajo metodologías ágiles con enfoque en colaboración y mejora continua.
+•  Pruebas Manuales: funcionales, exploratorias y de regresión en entornos web y móviles.
+•  APIs REST: validación de endpoints con Postman (métodos, parámetros, headers, body).
+•  Automatización: conocimientos básicos en Selenium con Python para pruebas web.
+•  Gestión de Incidencias: uso de JIRA para seguimiento de bugs y tareas de QA.
+•  Herramientas: Android Studio, Git y GitHub para pruebas, control de versiones y flujo de trabajo.
+•  Análisis de Datos: limpieza, transformación y organización de datasets en Excel y SQL.
+•  Visualización: creación de dashboards y gráficos en Tableau y Python para comunicar hallazgos.
+•  Storytelling con Datos: elaboración de narrativas claras y estratégicas para la toma de decisiones.
+•  Documentación Analítica: registro de procesos de análisis y generación de reportes ejecutivos.
 
 ---
 
@@ -90,7 +88,21 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
 
     - **📁 Link al proyecto**
    * (https://docs.google.com/document/d/1OwAXWrBQ62112r2gXHtOlXUXopfHS2iW7AUF1dfzZfY/edit?usp=sharing)
+## Proyectos de Tableau
+En este proyecto trabajé con múltiples archivos en Excel. Primero realicé la limpieza de cada dataset: eliminación de duplicados, estandarización de nombres de columnas y formatos de fechas. Posteriormente, consolidé la información en una sola base maestra mediante funciones como BUSCARV/VLOOKUP, CONCATENAR y el uso de tablas dinámicas para integrar registros de diferentes fuentes.
 
+Una vez que obtuve el archivo consolidado, lo importé a Tableau, donde construí un modelo de datos único. Esto me permitió crear dashboards interactivos que muestran tendencias generales, comparaciones entre grupos de usuarios y patrones de comportamiento, transformando múltiples fuentes en una narrativa visual clara y estratégica.
+* (https://public.tableau.com/shared/8CN73ZWZD?:display_count=n&:origin=viz_share_link)
+El panel de control integra indicadores clave (KPIs) y visualizaciones dinámicas que permiten:
+
+•  Monitorear métricas de rendimiento y comportamiento de usuarios.
+•  Comparar tendencias entre distintos grupos o periodos.
+•  Identificar patrones relevantes mediante gráficos interactivos.
+•  Facilitar la toma de decisiones con una narrativa visual clara y estratégica.
+* (https://public.tableau.com/views/PANELDECONTROL_17668958990230/Hoja1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Este proyecto demuestra mi capacidad para transformar datos dispersos en un dashboard integral, combinando análisis técnico con storytelling visual.
+Una vez que obtuve el archivo consolidado, lo importé a Tableau, donde construí un modelo de datos único. Esto me permitió crear dashboards interactivos que muestran tendencias generales, comparaciones entre grupos de usuarios y patrones de comportamiento, transformando múltiples fuentes en una narrativa visual clara y estratégica.
  ## ⚙️🔧 Herramientas adicionales 
   
 ### 🛠️ Gestión de Incidencias (Jira)
@@ -108,93 +120,6 @@ En mi repositorio encontrarás ejemplos prácticos de mi formación y experienci
   
 ### 🧰 Pruebas de Compatibilidad
    - **Descripción:** Reviso el funcionamiento y la apariencia de aplicaciones web y móviles en diversas plataformas, dispositivos y navegadores, con el objetivo de garantizar una experiencia uniforme, accesible y de calidad para todos los usuarios, sin importar el entorno desde el que accedan.
-   - 
-🥗 QA Manual – Sistema de Nutrición Clínica
-📖 Descripción del Proyecto
-
-Este proyecto contiene 30 casos de prueba manuales para un sistema de nutrición clínica.
-El objetivo es validar que el software gestione correctamente:
-
-🧑‍⚕️ Pacientes
-
-🍽️ Dietas y planes alimenticios
-
-📊 Evaluaciones nutricionales
-
-📄 Reportes y alertas
-
-🛠️ Estructura de los Casos de Prueba
-
-Cada caso de prueba incluye:
-
-🆔 ID: Número del caso
-
-📂 Módulo: Área del sistema
-
-📝 Descripción: Qué se va a probar
-
-⚠️ Precondiciones: Requisitos previos
-
-👣 Pasos: Secuencia para ejecutar la prueba
-
-💾 Datos de Entrada: Información utilizada
-
-✅ Resultado Esperado: Qué se espera obtener
-LINK DEL PROYECTO: (https://docs.google.com/spreadsheets/d/1s8hWpP6zi4rjKfN8UU5UW7Ij4c8j1XTd/edit?usp=sharing&ouid=103539336287944324214&rtpof=true&sd=true)
-
-🏥 QA Manual – Sistema de Administración de Hospitales
-📖 Descripción del Proyecto
-
-Este proyecto contiene 30 casos de prueba manuales para un sistema de administración hospitalaria.
-El objetivo es validar que el software gestione correctamente:
-
-🧑‍⚕️ Registro de personal médico y administrativo
-
-🛏️ Gestión de camas hospitalarias
-
-💊 Inventario de medicamentos y suministros
-
-📅 Programación de citas y turnos
-
-📄 Facturación y pagos
-
-📊 Reportes y auditorías
-
-🛠️ Estructura de los Casos de Prueba
-
-Cada caso de prueba incluye:
-
-🆔 ID: Número del caso
-
-📂 Módulo: Área del sistema
-
-📝 Descripción: Qué se va a probar
-
-⚠️ Precondiciones: Requisitos previos
-
-👣 Pasos: Secuencia para ejecutar la prueba
-
-💾 Datos de Entrada: Información utilizada
-
-✅ Resultado Esperado: Qué se espera obtener
-LINK: https://docs.google.com/spreadsheets/d/1rAwS2fg5vQWTBuVqPGzmhpUSKj7hHdyN/edit?usp=sharing&ouid=103539336287944324214&rtpof=true&sd=true
-## 💼👨‍💻 ¿Por qué contratarme?
-
-Como QA Engineer Junior, aporto una combinación sólida de habilidades técnicas, compromiso con la calidad del software y una mentalidad de mejora continua. Estas son algunas razones por las que podría ser un valor para tu equipo:
-
-🧠 Aprendizaje constante: Me mantengo en formación continua para fortalecer mis conocimientos en pruebas manuales, automatización, APIs, SQL y metodologías ágiles.
-
-🔍 Atención al detalle: Detecto errores, inconsistencias y oportunidades de mejora que otros podrían pasar por alto.
-
-🤝 Colaboración efectiva: Trabajo bien en equipo, aportando desde el rol de QA a la comunicación entre desarrolladores, diseñadores y product owners.
-
-🛠️ Conocimientos técnicos reales: He aplicado mis habilidades en proyectos donde he trabajado con herramientas como Postman, JIRA, Android Studio, Selenium, Git, y bases de datos SQL.
-
-📝 Documentación clara: Registro de manera organizada los casos de prueba, evidencias de errores y resultados, facilitando la trazabilidad del proceso de calidad.
-
-💡 Enfoque en el usuario final: Mis pruebas no solo buscan que la app funcione, sino que funcione bien para quien la usará.
-
-Estoy listo para contribuir, seguir aprendiendo y crecer junto con el equipo.
 
 ## 📫👉 ¡Hablemos!
 
