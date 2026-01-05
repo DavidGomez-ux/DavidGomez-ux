@@ -93,6 +93,7 @@ En este proyecto trabajé con múltiples archivos en Excel. Primero realicé la 
 
 Una vez que obtuve el archivo consolidado, lo importé a Tableau, donde construí un modelo de datos único. Esto me permitió crear dashboards interactivos que muestran tendencias generales, comparaciones entre grupos de usuarios y patrones de comportamiento, transformando múltiples fuentes en una narrativa visual clara y estratégica.
 * (https://public.tableau.com/shared/8CN73ZWZD?:display_count=n&:origin=viz_share_link)
+
 El panel de control integra indicadores clave (KPIs) y visualizaciones dinámicas que permiten:
 
 •  Monitorear métricas de rendimiento y comportamiento de usuarios.
